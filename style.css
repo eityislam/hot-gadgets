@@ -1,0 +1,38 @@
+.container1{
+    margin-top: 100px;
+}
+.font-style{
+    font-size: 22px;
+}
+.buy-now-button{
+    background-color:black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 7px;
+}
+.h6-color{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px rgb(236, 233, 233);
+}
+.card-footer{
+    text-align: center;
+    background-color: #fff;
+    border-top: none;
+}
+.head-style{
+    margin-bottom: 50px;
+}
+.categories{
+    margin-bottom: 80px;
+}
+.img-shoe{
+    margin-top: 60px;
+}
+footer{
+    height: 100px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
