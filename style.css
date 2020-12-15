@@ -1,6 +1,8 @@
 .container1{
     margin-top: 100px;
 }
+
+
 .font-style{
     font-size: 22px;
 }
@@ -33,6 +35,9 @@
 }
 footer{
     height: 100px;
-    background-color: #f8f9fa;
+    background-color: #ebedf0;
     text-align: center;
+}
+.img-style{
+  
 }
